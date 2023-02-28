@@ -1,1 +1,1 @@
-# 1913150_TannuBansal
+minimum support = 60%
