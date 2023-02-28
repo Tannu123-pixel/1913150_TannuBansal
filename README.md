@@ -1,1 +1,1 @@
-minimum support = 60%
+minimum support = 50%
